@@ -1,0 +1,1 @@
+Foundation of gatter.se based on python and the Django framework.
